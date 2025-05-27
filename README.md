@@ -9,9 +9,9 @@ Welcome! This repository contains my solutions to problems from the [NeetCode Ro
 
 ## 🚀 Roadmap
 
-> **I'm following the official [NeetCode Roadmap](https://neetcode.io/roadmap).**
+> **I'm following the official NeetCode Roadmap.**
 
-[![NeetCode Roadmap Preview](https://neetcode.io/_next/image?url=%2Froadmap%2Froadmap.png&w=1080&q=75)](https://neetcode.io/roadmap)
+![NeetCode Roadmap](./assets/roadmap.png)
 
 ---
 
