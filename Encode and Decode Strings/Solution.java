@@ -43,6 +43,8 @@ class Solution {
     
     public static void main(String[] args) {
         Solution solution = new Solution();
+
+        //Here are some test cases to test the code
         
         // Test case 1: Normal strings
         List<String> strs1 = Arrays.asList("hello", "world");
